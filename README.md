@@ -1,5 +1,6 @@
 # Computer-Vision
 This repository contains the projects that I completed out of interest apart from my curriculum. This contains the following files:
+
 = > 1. app.py
 Contains the main python file that detects through masking cars using opencv and haarcascade classifier
 
